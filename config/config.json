@@ -1,0 +1,16 @@
+{
+    "wifi":
+    {
+        "ssid": "TELUS3798",
+        "password": "2gyc9z9dgk",
+    }
+    "headers":
+    {
+        "Authorization" : "toilet",
+        "content-type": "application/json"
+    }
+    "post_json_content":
+    {
+        "Pump ID": "01"
+    }
+}

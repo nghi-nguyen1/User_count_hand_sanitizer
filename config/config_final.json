@@ -1,0 +1,17 @@
+{
+    "wifi":
+    {
+        "ssid_1": "Pixel_9736",
+        "password_1": "eb5289d9d8e1",
+        "ssid_2": "Annie iphone",
+        "password_2": "123456789",
+    },
+    "headers":
+    {
+        "Authorization" : "toilet"
+    },
+    "post_json_content":
+    {
+        "Pump ID": "01"
+    }
+}

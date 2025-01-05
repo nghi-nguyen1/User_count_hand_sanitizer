@@ -123,7 +123,5 @@ elif not button_pressed_numbers % 20 == 0:
 #    sleep(2)
 
 
-
-
 print('Go to deep sleep')
 deepsleep(1000000)
